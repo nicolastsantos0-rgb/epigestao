@@ -15,3 +15,4 @@ O sistema exibe um mapa interativo com pinos coloridos (verde, amarelo, laranja 
 ## Como executar
 1. **Backend (Python/Django):** Entre na pasta `sistema_epi`, rode `pip install -r requirements.txt`, depois `python manage.py migrate` e `python manage.py runserver`.
 2. **Frontend (React):** Entre na pasta `epigestao_frontend`, rode `npm install` e `npm start`.
+Teste de Pull Request
